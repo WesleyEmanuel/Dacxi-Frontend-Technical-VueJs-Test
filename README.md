@@ -22,7 +22,7 @@ A aplicação foi toda desenvolvida com VueJs, como exigido nos requisitos, e es
 mobile first e deixei o site responsivo para variados tamanhos de tela. Com VueJs, consegui Componentizar a página e usar métodos
 para aplicar lógica com JavaScript na montagem do HTML. Além disso, utilizei a API da CoinGecko, na qual fiz
 requisições GET via fetch, para pegar os dados históricos e atuais da criptomoeda. 
-Foi um desafio muito enriquecedor. Agradeço a Dacxi pela oportunidade e espero também gostem do resultado.
+Foi um desafio muito enriquecedor. Agradeço a Dacxi pela oportunidade e espero que também gostem do resultado.
 
 ## 💻 Tecnologias utilizadas:
 - VueJs
