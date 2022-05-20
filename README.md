@@ -3,8 +3,8 @@
 
 ## 📸 Screenshots da aplicação:
 <div>
-  <img style="width: 200px" src="./public/mobile_screen.png" alt="home"/>
-  <img style="width: 700px" src="./public/desktop_screen.png" alt="home"/>
+  <img style="width: 250px" src="./public/mobile_screen.png" alt="home"/>
+  <img style="width: 750px" src="./public/desktop_screen.png" alt="home"/>
 </div>
 
 </br>
