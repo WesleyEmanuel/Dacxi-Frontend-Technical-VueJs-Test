@@ -18,10 +18,10 @@
 Olá, devs! Essa é uma aplicação simples, mas com muito apredizado por trás. Tive a oportunidade de participar desse teste 
 feito pela Dacxi e estou muito feliz com o resultado.
 O desafio era fazer um site para visualização dos preços do Bitcoin na data atual ou nas datas pesquisadas pelo usuário.
-A aplicação foi toda desenvolvida com VueJs, como exigido nos requisitos, e estilizada com Tailwind CSS. Utilizei o conceito 
-mobile first e deixei o site responsivo para variados tamanhos de tela. Com VueJs, consegui Componentizar a página e usar métodos
-para aplicar lógica com JavaScript na montagem do HTML. Além disso, utilizei a API da CoinGecko, na qual fiz
-requisições GET via fetch, para pegar os dados históricos e atuais da criptomoeda. 
+A aplicação foi toda desenvolvida com VueJs, como exigido nos requisitos, e estilizada com Tailwind CSS, fazendo, ainda, uso da biblioteca 
+Heroicons. Utilizei o conceito mobile first e deixei o site responsivo para variados tamanhos de tela. Com VueJs, 
+consegui Componentizar a página e usar métodos para aplicar lógica com JavaScript na montagem do HTML. Além disso, utilizei a API da CoinGecko,
+na qual fiz requisições GET via fetch, para pegar os dados históricos e atuais da criptomoeda. 
 Foi um desafio muito enriquecedor. Agradeço a Dacxi pela oportunidade e espero que também gostem do resultado.
 
 ## 💻 Tecnologias utilizadas:
